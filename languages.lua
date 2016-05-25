@@ -179,9 +179,9 @@ return {
             modlist = '*Creator*:\n&&&1\n\n*Admins*:\n&&&2'
         },
         report = {
-            no_input = ' `پیام ارسال نشد` \n _لطفا پیام خود را مانند نمونه زیر ارسال کنید_ \n\n /c [Text] ',
-            sent = ' _پیام شما با موفقیت ارسال شد_ ',
-            feedback_reply = ' _این پیام از طرف مدیریت ربات است_ ',
+            no_input = ' پیام ارسال نشد \n لطفا پیام خود را مانند نمونه زیر ارسال کنید \n\n /c [Text] ',
+            sent = ' پیام شما با موفقیت ارسال شد ',
+            feedback_reply = ' این پیام از طرف مدیریت ربات است ',
         },
         service = {
             new_group = 'Hi all!\n*&&&1* added me here to help you to manage this group.\nIf you want to know how I work, please start me in private or type /help  :)',
