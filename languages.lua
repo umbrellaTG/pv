@@ -179,8 +179,8 @@ return {
             modlist = '*Creator*:\n&&&1\n\n*Admins*:\n&&&2'
         },
         report = {
-            no_input = 'Write your suggestions/bugs/doubt near "/c"',
-            sent = 'Feedback sent!',
+            no_input = ' اول پیام خود /c بگذارید ',
+            sent = ' `پیام شما با موفقیت ارسال شد` ',
             feedback_reply = '*Hello, this is a reply from the bot owner*:\n&&&1',
         },
         service = {
