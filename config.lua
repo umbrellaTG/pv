@@ -1,39 +1,17 @@
 return {
 	bot_api_key = '',
-	admin = 23646077,
+	admin = 112840592,
 	log_chat = -1001057801239,
-	channel = '@groupbutler_ch', --channel username with the '@'
+	channel = '@TeleIranTeam', 
 	languages = 'languages.lua',
 	plugins = {
-		'onmessage.lua', --THIS HAVE TO BE THE FIRST: IF AN USER IS SPAMMING/IS BLOCKED, THE BOT WON'T GO THROUGH PLUGINS
-		'all.lua',
-		'banhammer.lua',
-		'users.lua',
-		'help.lua',
-		'rules.lua',
-		'settings.lua',
-		'about.lua',
-		'flag.lua',
-		'service.lua',
-		'links.lua',
-		'warn.lua',
-		'extra.lua',
-		'setlang.lua',
-		'floodmanager.lua',
-		'mediasettings.lua',
 		'private.lua',
 		'admin.lua',
-		'test.lua',
-		'faq.lua'
+
 	},
 	available_languages = {
 		'en',
-		'it',
-		'es',
-		'br',
-		'ru',
-		'de'
-		--more to come
+
 	},
 	chat_data = {
 		'settings',
