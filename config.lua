@@ -1,5 +1,5 @@
 return {
-	bot_api_key = '',
+	bot_api_key = '204806786:AAH5x8wbAzm3Nh1k66YMgVWLGPkPujiL7Rw',
 	admin = 112840592,
 	log_chat = -1001057801239,
 	channel = '@TeleIranTeam', 
