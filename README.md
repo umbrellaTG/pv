@@ -11,9 +11,11 @@ sudo luarocks install lua-term
 sudo luarocks install serpent
 cd ..
 
+
 ```
 
 ```
+
  sudo apt-get install curl
  
 ```
@@ -24,9 +26,11 @@ git clone https://github.com/KingArmin/TelePm
 cd TelePm 
 sudo chmod 777 launch.sh
 
+
 ```
 
 ```
+
 sudo service redis-server start
 
 ```
