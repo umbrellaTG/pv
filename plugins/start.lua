@@ -4,7 +4,7 @@ local action = function(msg, matches)
   end
 local triggers = {
   "^/[Ss][Tt][Aa][Rr][Tt]",
-  },
+  }
 return {
   action = action,
   triggers = triggers
