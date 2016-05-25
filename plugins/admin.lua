@@ -54,6 +54,7 @@ local triggers2 = {
 	'^/a(resid) (%d+)$'
 }
 
+
 local logtxt = ''
 local failed = 0
 
