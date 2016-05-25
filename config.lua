@@ -7,7 +7,6 @@ return {
 	plugins = {
 		'private.lua',
 		'admin.lua',
-		'block.lua',
 		'start.lua',
 
 	},
