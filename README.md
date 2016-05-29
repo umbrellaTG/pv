@@ -22,8 +22,8 @@ cd ..
 
 ```
 
-git clone https://github.com/KingArmin/TelePm
-cd TelePm 
+git clone https://github.com/TeleIran/Sms
+cd Sms
 sudo chmod 777 launch.sh
 
 
