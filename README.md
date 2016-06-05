@@ -5,7 +5,7 @@
 
 | Command | Member | Admin |
 |:--------|:--------|:-------------|
-| <html>&#91;</html> (un)lock links | Y | Y |
+| <html>&#91;</html> /c [Text] | Yes | No |
 | <html>&#91;</html> un)lock flood | Y | Y |
 | <html>&#91;</html> #!/]setflood [5-20] | Y | Y |
 | <html>&#91;</html> #!/](un)lock bots | Y | N |
