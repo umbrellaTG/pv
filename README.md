@@ -5,9 +5,9 @@
 
 | Command | Member | Admin |
 |:--------|:--------|:-------------|
-| /c [Text] | Yes | No |
-|  | Y | Y |
-|  #!/]setflood [5-20] | Y | Y |
+| /start | Yes | Yes |
+| /c | Yes | No |
+| /areply | No | Yes |
 | (un)lock bots | Y | N |
 |  #!/](un)lock spam | Y | Y |
 |  #!/](un)lock arabic | Y | Y |
@@ -16,7 +16,6 @@
 |  #!/](un)lock RTL | Y | Y |
 |  #!/](un)lock tgservice | N | Y |
 |  #!/](un)lock sticker | Y| Y |
-|  #!/]public [yes<html>&#124;</html>no] | Y | Y |
 |  (un)lock strict | N | Y |
 
 
