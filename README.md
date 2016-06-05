@@ -1,8 +1,4 @@
-# Sms Source 
-
-.
-
-# Dev: #ArminDev
+# Sms Source * ArminDev
 
 
 .
