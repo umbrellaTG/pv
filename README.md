@@ -3,7 +3,7 @@
 
 ## Settings 
 
-| Command | Groups? | SuperGroups? |
+| Command | Member | Admin |
 |:--------|:--------|:-------------|
 | <html>&#91;</html> (un)lock links | Y | Y |
 | <html>&#91;</html> un)lock flood | Y | Y |
