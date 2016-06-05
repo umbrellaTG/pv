@@ -1,5 +1,5 @@
-* /c Text
-* * /areply Text
+*    /c سوال
+*    /areply جواب
 
 ```
 
