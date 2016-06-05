@@ -6,17 +6,17 @@
 | Command | Member | Admin |
 |:--------|:--------|:-------------|
 | /start | Yes | Yes |
-| /c | Yes | No |
-| /areply | No | Yes |
-| (un)lock bots | Y | N |
-|  #!/](un)lock spam | Y | Y |
-|  #!/](un)lock arabic | Y | Y |
-|  #!/](un)lock member | Y | Y |
-|  #!/](un)lock leave | Y | N |
-|  #!/](un)lock RTL | Y | Y |
-|  #!/](un)lock tgservice | N | Y |
-|  #!/](un)lock sticker | Y| Y |
-|  (un)lock strict | N | Y |
+| /c [Text] | Yes | No |
+| /areply [Text] | No | Yes |
+| /abc [Text] | No | Yes |
+| /abcg [Text] | No | Yes |
+| /ablock | No | Yes |
+| /aunblock | No | Yes |
+|   | Y | N |
+|   | Y | Y |
+|   | N | Y |
+|   | Y | Y |
+|   | N | Y |
 
 
 # Install Help
