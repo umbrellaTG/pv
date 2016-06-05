@@ -5,19 +5,19 @@
 
 | Command | Groups? | SuperGroups? |
 |:--------|:--------|:-------------|
-| <html>&#91;</html>#!/](un)lock links | Y | Y |
-| <html>&#91;</html>#!/](un)lock flood | Y | Y |
-| <html>&#91;</html>#!/]setflood [5-20] | Y | Y |
-| <html>&#91;</html>#!/](un)lock bots | Y | N |
-| <html>&#91;</html>#!/](un)lock spam | Y | Y |
-| <html>&#91;</html>#!/](un)lock arabic | Y | Y |
-| <html>&#91;</html>#!/](un)lock member | Y | Y |
-| <html>&#91;</html>#!/](un)lock leave | Y | N |
-| <html>&#91;</html>#!/](un)lock RTL | Y | Y |
-| <html>&#91;</html>#!/](un)lock tgservice | N | Y |
-| <html>&#91;</html>#!/](un)lock sticker | Y| Y |
-| <html>&#91;</html>#!/]public [yes<html>&#124;</html>no] | Y | Y |
-| <html>&#91;</html>#!/](un)lock strict | N | Y |
+| <html>&#91;</html> (un)lock links | Y | Y |
+| <html>&#91;</html> un)lock flood | Y | Y |
+| <html>&#91;</html> #!/]setflood [5-20] | Y | Y |
+| <html>&#91;</html> #!/](un)lock bots | Y | N |
+| <html>&#91;</html> #!/](un)lock spam | Y | Y |
+| <html>&#91;</html> #!/](un)lock arabic | Y | Y |
+| <html>&#91;</html> #!/](un)lock member | Y | Y |
+| <html>&#91;</html> #!/](un)lock leave | Y | N |
+| <html>&#91;</html> #!/](un)lock RTL | Y | Y |
+| <html>&#91;</html> #!/](un)lock tgservice | N | Y |
+| <html>&#91;</html> #!/](un)lock sticker | Y| Y |
+| <html>&#91;</html> #!/]public [yes<html>&#124;</html>no] | Y | Y |
+| <html>&#91;</html> #!/](un)lock strict | N | Y |
 
 
 # Install Help
