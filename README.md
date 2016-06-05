@@ -2,8 +2,6 @@
 
 
 #.
-#.
-#.
 
 | Command | Member | Admin |
 |:--------|:--------|:-------------|
@@ -20,8 +18,6 @@
 |   | Y | Y |
 |   | N | Y |
 
-#.
-#.
 #.
 
 # Install Help
@@ -50,8 +46,6 @@ sudo chmod 777 launch.sh
 sudo service redis-server start
 ```
 
-#.
-#.
 #.
 
 *   Please Fork This Source
