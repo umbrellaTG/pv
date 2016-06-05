@@ -1,7 +1,5 @@
-*    /c [Text]
-*    /areply [Text]
+# [Sms](https://telegram.me/TeleIranTeam)
 
-## Settings 
 
 | Command | Member | Admin |
 |:--------|:--------|:-------------|
