@@ -47,4 +47,6 @@ sudo chmod 777 launch.sh
 sudo service redis-server start
 ```
 
-*   Please Fork Sms Source
+
+
+*   Please Fork This Source
