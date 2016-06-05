@@ -12,7 +12,7 @@
 | /abcg [Text] | No | Yes |
 | /ablock | No | Yes |
 | /aunblock | No | Yes |
-|   | Y | N |
+| /astats | No | Yes |
 |   | Y | Y |
 |   | N | Y |
 |   | Y | Y |
@@ -20,8 +20,8 @@
 
 
 # Install Help
-```
 
+```
 wget http://luarocks.org/releases/luarocks-2.2.2.tar.gz
 tar zxpf luarocks-2.2.2.tar.gz
 cd luarocks-2.2.2
@@ -32,27 +32,15 @@ sudo luarocks install redis-lua
 sudo luarocks install lua-term
 sudo luarocks install serpent
 cd ..
-
-
 ```
-
 ```
-
- sudo apt-get install curl
- 
+sudo apt-get install curl
 ```
-
 ```
-
 git clone https://github.com/TeleIran/Sms
 cd Sms
 sudo chmod 777 launch.sh
-
-
 ```
-
 ```
-
 sudo service redis-server start
-
 ```
