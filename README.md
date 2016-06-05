@@ -1,5 +1,6 @@
-*    /c سوال
-*    /areply جواب
+*    /c [Text]
+*    /areply [Text]
+
 
 
 # Install Help
