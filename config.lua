@@ -1,8 +1,8 @@
 return {
-	bot_api_key = '204806786:AAH5x8wbAzm3Nh1k66YMgVWLGPkPujiL7Rw',
-	admin = 112840592,
-	log_chat = -1001057801239,
-	channel = '@TeleIranTeam', 
+	bot_api_key = '192349344:AAHsnIv222tHOYdlz5jkmHaS_zqymuikJkE',
+	admin = 215899310,126477037,
+	log_chat = -143046399,
+	channel = '@EXTREMECH', 
 	languages = 'languages.lua',
 	plugins = {
 		'private.lua',
